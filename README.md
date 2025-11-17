@@ -17,7 +17,7 @@ The core environment versions used in this project are:
 All other dependency details are specified in `requirements.txt`.  
 After creating your Python environment (e.g., via `conda` or `venv`), please run:
 
-```bash
+
 pip install -r requirements.txt
 
 If you use the OpenAI API in this project, please configure your API key as an environment variable.
